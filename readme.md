@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="img/home-banner-bg.png">
+<img align="right" width="500" height="500" src="https://github.com/hllerenaa/hllerenaa/blob/master/img/home-banner-bg.pngg">
 
 
 # Hola <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">, Soy Hector.
