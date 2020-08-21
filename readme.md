@@ -5,9 +5,6 @@
 
 Full-Stack | Web | Developer
 
-[![Github](https://img.shields.io/github/followers/hllerenaa?style=social)](https://github.com/hllerenaa)
-[![Github](https://img.shields.io/github/last-commit/hllerenaa/hllerenaa)](https://github.com/hllerenaa/hllerenaa)
-
 
 ## Acerca de mi
 
