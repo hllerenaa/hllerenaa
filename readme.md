@@ -25,9 +25,6 @@ Full-Stack | Web | Developer
 <a href="mailto:hllerenaa1h@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
-<a href="https://api.whatsapp.com/send?phone=59399863952&text=Hola%20Hector,%20quisiera%20consultar%20">
-  <img align="left" alt="Whatsapp" width="22px" src="https://img.icons8.com/android/24/000000/whatsapp.png"/>
-</a>
 
 ---
 ⭐️ Portafolio [Hector LLerena](https://solucionados.live)
