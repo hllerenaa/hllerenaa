@@ -1,7 +1,7 @@
 <img align="right" width="500" height="500" src="https://github.com/hllerenaa/hllerenaa/blob/master/img/home-banner-bg.png">
 
 
-# Hola <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">, Soy Hector.
+# Hola, Soy Hector.
 
 Full-Stack | Web | Developer
 
