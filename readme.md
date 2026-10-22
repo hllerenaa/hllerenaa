@@ -4,7 +4,6 @@
 ### **AI Engineer | Líder de Desarrollo Web | Full-Stack Senior**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hllerenaa/)
-[![Website](https://img.shields.io/badge/Portafolio-solucionados.live-008080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solucionados.live)
 [![Email](https://img.shields.io/badge/Email-hllerenaa1h%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hllerenaa1h@gmail.com)
 
 ---
@@ -13,11 +12,11 @@
 
 ## 📌 Sobre mí
 
-Ingeniero en Sistemas Computacionales y **AI Engineer** con más de 7 años de experiencia liderando equipos técnicos y construyendo plataformas de alta concurrencia (+100.000 usuarios). Especializado en la arquitectura e implementación de **agentes de Inteligencia Artificial (LLMs, RAG, LangChain/LangGraph)**, desarrollo **Full-Stack (Python/Django, Node.js, PHP, Vue.js, Svelte, Flutter)**, e infraestructura cloud/DevOps.
+Ingeniero en Sistemas Computacionales y **AI Engineer** con más de 7 años de experiencia liderando equipos técnicos y construyendo plataformas de alta concurrencia (+100.000 usuarios)[cite: 1]. Especializado en la arquitectura e implementación de **agentes de Inteligencia Artificial (LLMs, RAG, LangChain/LangGraph)**[cite: 1], desarrollo **Full-Stack (Python/Django, Node.js, PHP, Vue.js, Svelte, Flutter)**[cite: 1], e infraestructura cloud/DevOps[cite: 1].
 
-- 🤖 **IA & LLMs:** Diseño de agentes conversacionales, arquitecturas RAG sobre bases de datos vectoriales (**Weaviate**), orquestación con **LangChain / LangGraph** y generación de evaluaciones inteligentes integradas en LMS (Moodle).
-- 👔 **Liderazgo Técnico & Arquitectura:** Dirección de equipos multitarea, metodologías ágiles (Scrum), aseguramiento de calidad del código, y gestión de VPS/Servidores en producción.
-- 💳 **Integraciones Complejas:** Experiencia avanzada en Facturación Electrónica (SRI Ecuador), firma digital (.p12 / JavaFirmaEC), pasarelas de pago (PayPal, Stripe, PayPhone, PlacetoPay, Kushki, Datafast) y automatización de **WhatsApp Business Platform API / Meta for Developers**.
+- 🤖 **IA & LLMs:** Diseño de agentes conversacionales, arquitecturas RAG sobre bases de datos vectoriales (**Weaviate**), orquestación con **LangChain / LangGraph** y generación de evaluaciones inteligentes integradas en LMS (Moodle)[cite: 1].
+- 👔 **Liderazgo Técnico & Arquitectura:** Dirección de equipos multitarea, metodologías ágiles (Scrum), aseguramiento de calidad del código, y gestión de VPS/Servidores en producción[cite: 1].
+- 💳 **Integraciones Complejas:** Experiencia avanzada en Facturación Electrónica (SRI Ecuador), firma digital (.p12 / JavaFirmaEC), pasarelas de pago (PayPal, Stripe, PayPhone, PlacetoPay, Kushki, Datafast) y automatización de **WhatsApp Business Platform API / Meta for Developers**[cite: 1, 2].
 
 ---
 
@@ -75,5 +74,5 @@ Ingeniero en Sistemas Computacionales y **AI Engineer** con más de 7 años de e
 ---
 
 <div align="center">
-  <sub>💡 <i>"No me caso con un único stack: me adapto a cualquier lenguaje o framework según la necesidad del proyecto."</i></sub>
+  <sub>💡 <i>"No me caso con un único stack: me adapto a cualquier lenguaje o framework según la necesidad del proyecto."</i>[cite: 1]</sub>
 </div>
